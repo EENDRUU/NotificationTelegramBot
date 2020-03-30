@@ -7,10 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4917eb7e-89bd-45e6-8a98-1a735e8d7a0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/botTelegram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/botTelegram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/bot3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/bot3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +145,7 @@
       <workItem from="1585542538762" duration="1657000" />
       <workItem from="1585545212910" duration="7618000" />
       <workItem from="1585557855052" duration="1435000" />
-      <workItem from="1585560658104" duration="438000" />
+      <workItem from="1585560658104" duration="5129000" />
     </task>
     <task id="LOCAL-00001" summary="asdsa">
       <created>1585558166526</created>
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585558166526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="asdsa">
+      <created>1585561176734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585561176735</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,10 +196,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="117" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1585548388164" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585558162789">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585561173978">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585558162788" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585561173978" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1580962350321">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -219,10 +224,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="39" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585560859492" />
-    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1585558174157">
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1585561182905">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1585558174157" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1585561182905" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585560686537">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
