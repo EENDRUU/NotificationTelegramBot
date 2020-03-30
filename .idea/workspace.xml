@@ -7,21 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4917eb7e-89bd-45e6-8a98-1a735e8d7a0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/botTelegram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/botTelegram.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/APIService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/APIService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/UserTelegram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/UserTelegram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/bot3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/bot3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/APIService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/APIService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Customers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/bot$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/bot.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,12 +146,25 @@
       <workItem from="1584428596421" duration="4412000" />
       <workItem from="1585542538762" duration="1657000" />
       <workItem from="1585545212910" duration="7618000" />
-      <workItem from="1585557855052" duration="177000" />
+      <workItem from="1585557855052" duration="1435000" />
+      <workItem from="1585560658104" duration="438000" />
     </task>
+    <task id="LOCAL-00001" summary="asdsa">
+      <created>1585558166526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585558166526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asdsa" />
+    <option name="LAST_COMMIT_MESSAGE" value="asdsa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="26" key="#Project_Structure" timestamp="1579241976110">
@@ -189,10 +191,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="117" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1585548388164" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1579253315365">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585558162789">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1579253315365" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585558162788" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1580962350321">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -213,14 +215,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585554276933" />
-    <state x="39" y="0" key="SettingsEditor" timestamp="1585548228513">
+    <state x="39" y="0" key="SettingsEditor" timestamp="1585560859492">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="39" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585548228513" />
-    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585557855269">
+    <state x="39" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585560859492" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1585558174157">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1585557855269" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1585558174157" />
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585560686537">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1585560686537" />
     <state x="387" y="261" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579155620581">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

@@ -1,7 +1,6 @@
 package com.company;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
+
 import okhttp3.ResponseBody;
 import org.omg.CORBA.PUBLIC_MEMBER;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
