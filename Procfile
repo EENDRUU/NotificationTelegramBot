@@ -1,0 +1,1 @@
+web: java -jar target/sheltered-beach-94541.jar
