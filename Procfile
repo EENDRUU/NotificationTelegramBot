@@ -1,1 +1,1 @@
-web: java -jar target/sheltered-beach-94541.jar
+web: java -jar target/botTelegram.jar
