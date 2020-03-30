@@ -7,8 +7,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4917eb7e-89bd-45e6-8a98-1a735e8d7a0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compressing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discovering" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Launching" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/botTelegram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/botTelegram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/botTelegram.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heroku" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/botTelegram_jar/botTelegram.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/botTelegram.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/APIService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/APIService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +87,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/target" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exampleBotTelegramHeroku/telegram-bot-heroku" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -151,7 +166,8 @@
       <workItem from="1585545212910" duration="7618000" />
       <workItem from="1585557855052" duration="1435000" />
       <workItem from="1585560658104" duration="8426000" />
-      <workItem from="1585578234100" duration="1810000" />
+      <workItem from="1585578234100" duration="6800000" />
+      <workItem from="1585591698625" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="asdsa">
       <created>1585558166526</created>
@@ -188,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585579861108</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="asdsa">
+      <created>1585580269813</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585580269813</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,14 +254,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="117" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1585548388164" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585579853053">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585580268071">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585579853053" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1580962350321">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585580268071" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1585581225588">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1580962350321" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1585581225588" />
     <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1585554276962">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -259,10 +282,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="39" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585579643699" />
-    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1585579866744">
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1585580273153">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1585579866744" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1585580273153" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585578255907">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -275,10 +298,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="148" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1579746702947" />
-    <state x="65" y="0" key="new project wizard" timestamp="1578995478867">
+    <state x="65" y="0" key="new project wizard" timestamp="1585581630877">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1578995478867" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1585581630877" />
     <state x="339" y="159" key="run.anything.popup" timestamp="1580284736322">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

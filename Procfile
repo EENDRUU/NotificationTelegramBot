@@ -1,1 +1,1 @@
-web: java -jar botTelegram.jar
+worker: sh target/bin/botTelegram
