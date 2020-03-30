@@ -1,11 +1,11 @@
 package com.company;
 
-public class User {
+public class UserTelegram {
     String chat_id, name;
     int success;
 
 
-    public User(String chat_id, String name, int success) {
+    public UserTelegram(String chat_id, String name, int success) {
         this.chat_id = chat_id;
         this.name = name;
         this.success = success;
